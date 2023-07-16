@@ -5,9 +5,9 @@ This is a simple Movie poster app that fetches posters characters from an API en
 #Getting Started
 
 #First:
-npm i
+# npm i
 #or 
-npm install
+# npm install
 
 #After that run the development server:
 npm run dev
