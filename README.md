@@ -10,7 +10,7 @@ This is a simple Movie poster app that fetches posters characters from an API en
 # npm install
 
 #After that run the development server:
-npm run dev
+# npm run dev
 # or
 yarn dev
 # or
