@@ -1,16 +1,16 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+check out live: [got-mvc-t-n-t.vercel.app](https://movie-poster-mvc-next-js-tailwindcss-typescript.vercel.app/)
 
-## Getting Started
+This is a simple Movie poster app that fetches posters characters from an API endpoint written in the Model-View-Controller (MVC) architecture. It's a personal practice project.
 
-First, run the development server:
-
-```bash
+Getting Started
+#First:
+npm i or npm install
+#After that run the development server:
 npm run dev
 # or
 yarn dev
 # or
 pnpm dev
-```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
