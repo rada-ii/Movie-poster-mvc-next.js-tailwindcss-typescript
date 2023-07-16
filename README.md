@@ -2,9 +2,11 @@ check out live: [got-mvc-t-n-t.vercel.app](https://movie-poster-mvc-next-js-tail
 
 This is a simple Movie poster app that fetches posters characters from an API endpoint written in the Model-View-Controller (MVC) architecture. It's a personal practice project.
 
-Getting Started
+#Getting Started
+
 #First:
 npm i or npm install
+
 #After that run the development server:
 npm run dev
 # or
